@@ -2,7 +2,11 @@
   "name": "token",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://shilibrad.github.io/monsters-rolodex/",
+=======
+  "homepage":"https://shilibrad.github.io/monsters-rolodex/",
+>>>>>>> 8e43931437a7350b680a68fa3da323e7ce5cc0a1
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
